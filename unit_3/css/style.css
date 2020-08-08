@@ -1,1 +1,15 @@
-/*CSS will be added in the future per mentor instructions*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+p {
+	font-family: Raleway, sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+h1 {
+	font-family: Raleway, sans-serif;
+	font-weight: 800;
+	font-size: 2em;
+	line-height: 2em;
+}
