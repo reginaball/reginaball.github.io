@@ -1,29 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-.wrapper {
-	background: #eee;
-	padding: 0.5em;
+* {
+	margin: 0;
+	padding: 0;
 }
 
-body, p {
+body {
 	font-family: Raleway, sans-serif;
 	font-weight: 400;
 	font-size: 1em;
-	line-height: 1.25em;
+	line-height: 1.25;
 }
 
 h1 {
 	font-family: Raleway, sans-serif;
 	font-weight: 900;
 	font-size: 2em;
-	line-height: 2em;
+	line-height: 1.25;
 }
 
 h2 {
 	font-family: Raleway, sans-serif;
 	font-weight: 700;
 	font-size: 1.5em;
-	line-height: 1.5em;
+	line-height: 1.5;
 	text-transform: uppercase;
 	color: #9f1c30;
 }
@@ -32,14 +32,14 @@ h3 {
 	font-family: Raleway, sans-serif;
 	font-weight: 500;
 	font-size: 1.25em;
-	line-height: 1.5em;
+	line-height: 1.5;
 }
 
 a {
 	font-family: Raleway, sans-serif;
 	font-weight: 500;
 	font-size: 1em;
-	line-height: 1.25em;
+	line-height: 1.25;
 	color: #ec1a3b;
 }
 
@@ -57,7 +57,7 @@ article {
 
 footer {
 	background: #FF957E;
-	font-size: 0.5em;
+	font-size: 1em;
 }
 
 section {
